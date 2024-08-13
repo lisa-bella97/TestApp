@@ -1,3 +1,3 @@
 # TestApp
 
-Minimal sample for reproducing bag in JNA.
+Minimal sample for reproducing bug in JNA.
